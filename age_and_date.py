@@ -14,7 +14,7 @@ def main():
                 print()
                 print("You can date my grandchild")
 
-            elif age < 25 or age > 40:
+            else:
                 print()
                 print("You cannot date my grandchild")
 
